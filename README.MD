@@ -1,7 +1,9 @@
-# EECS 731 Project 2 - Weekend movie trip
+# EECS 731 Project 2 - To be, or not to be
 
-Data - Contains all csv files for movies data downloaded.
+Data - Contains a csv file for Shakespeare play data downloaded from kaggle.
 
-Notebooks - Includes a notebook in which everything is done.
+Notebooks - Data analysis and ML Models implemented in two notebooks. 
+One contains testing ML models with a limited dataset (One play only).
+The second notebook uses the whole dataset with the selected ML model.
 
 Requires Pandas, scikit-learn, and numpy libraries to be installed.
